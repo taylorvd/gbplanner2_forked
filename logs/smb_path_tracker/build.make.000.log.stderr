@@ -1,0 +1,13 @@
+[01m[K/home/taylorvd/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/src/pure_pursuit.cpp:[m[K In member function ‘[01m[Kbool PurePursuitController::computeCommandVelocity()[m[K’:
+[01m[K/home/taylorvd/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/src/pure_pursuit.cpp:210:33:[m[K [01;35m[Kwarning: [m[Kcatching polymorphic type ‘[01m[Ktf::TransformException[m[K’ {aka ‘[01m[Kclass tf2::TransformException[m[K’} by value [[01;35m[K-Wcatch-value=[m[K]
+  210 |   catch (tf::TransformException [01;35m[Kex[m[K) {
+      |                                 [01;35m[K^~[m[K
+In file included from [01m[K/opt/ros/noetic/include/tf/transform_datatypes.h:41[m[K,
+                 from [01m[K/home/taylorvd/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/include/smb_path_tracker/pure_pursuit.h:9[m[K,
+                 from [01m[K/home/taylorvd/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/src/pure_pursuit.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/tf/LinearMath/Transform.h:48:13:[m[K [01;35m[Kwarning: [m[K‘[01m[K*((void*)& carrot_point_vec +16)[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+   48 |   m_origin(c[01;35m[K)[m[K
+      |             [01;35m[K^[m[K
+[01m[K/home/taylorvd/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/src/pure_pursuit.cpp:175:19:[m[K [01;36m[Knote: [m[K‘[01m[K*((void*)& carrot_point_vec +16)[m[K’ was declared here
+  175 |   Eigen::Vector3d [01;36m[Kcarrot_point_vec[m[K;
+      |                   [01;36m[K^~~~~~~~~~~~~~~~[m[K

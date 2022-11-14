@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/devel/.private/smb_gazebo
+
+Name: smb_gazebo
+Description: Description of smb_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

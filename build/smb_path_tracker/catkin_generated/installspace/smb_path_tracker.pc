@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/install
+
+Name: smb_path_tracker
+Description: Description of smb_path_tracker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lsmb_path_tracker
+Requires: planner_msgs roscpp tf geometry_msgs

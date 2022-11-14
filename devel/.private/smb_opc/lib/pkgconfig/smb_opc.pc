@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/devel/.private/smb_opc
+
+Name: smb_opc
+Description: Description of smb_opc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

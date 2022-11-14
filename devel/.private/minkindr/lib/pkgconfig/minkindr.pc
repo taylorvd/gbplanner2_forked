@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/devel/.private/minkindr
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I/home/taylorvd/gbplanner2_ws/src/misc/minkindr/minkindr/include
+Libs: -L${prefix}/lib 
+Requires: 

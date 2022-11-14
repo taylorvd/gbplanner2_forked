@@ -1,0 +1,1 @@
+/home/taylorvd/gbplanner2_ws/devel/.private/planner_semantic_msgs/share/roseus/ros/planner_semantic_msgs/manifest.l

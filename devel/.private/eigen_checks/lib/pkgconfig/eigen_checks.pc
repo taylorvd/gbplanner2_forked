@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/devel/.private/eigen_checks
+
+Name: eigen_checks
+Description: Description of eigen_checks
+Version: 0.0.1
+Cflags: -I/home/taylorvd/gbplanner2_ws/src/misc/eigen_checks/include
+Libs: -L${prefix}/lib -leigen_checks
+Requires: 

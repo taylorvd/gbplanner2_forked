@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/devel/.private/lidar_description
+
+Name: lidar_description
+Description: Description of lidar_description
+Version: 1.0.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

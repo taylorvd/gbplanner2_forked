@@ -1,0 +1,8 @@
+prefix=/home/taylorvd/gbplanner2_ws/install
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

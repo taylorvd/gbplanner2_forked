@@ -1,0 +1,1 @@
+/home/taylorvd/gbplanner2_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc

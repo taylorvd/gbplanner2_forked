@@ -1,0 +1,1 @@
+/home/taylorvd/gbplanner2_ws/devel/.private/smb_opc/share/smb_opc/cmake/smb_opcConfig.cmake
